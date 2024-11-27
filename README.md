@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # U-Net based model for detecting landslides
 This project utilizes the U-Net architecture for detecting landslides in satellite images. The U-Net model is trained with a custom loss function and evaluated using the Jaccard coefficient as a metric. 
 The goal is to accurately identify landslide-affected areas in satellite imagery.
@@ -35,3 +36,7 @@ This helps to retain high-resolution information and aids in the precise localiz
 
 
 
+=======
+# Landslides
+U‐Net based model for detecting Landslides from Satellite images
+>>>>>>> 5dc8ef5c6529dd5a40816f2658be9b6af43f5151
